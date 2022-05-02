@@ -124,6 +124,10 @@ Build Type                    | Status                                          
 **Libtensorflow Windows CPU** | Status Temporarily Unavailable                                                                                                                                                   | [Nightly Binary](https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/windows/latest/cpu/windows_cpu_libtensorflow_binaries.tar.gz) [Official GCS](https://storage.googleapis.com/tensorflow/)
 **Libtensorflow Windows GPU** | Status Temporarily Unavailable                                                                                                                                                   | [Nightly Binary](https://storage.googleapis.com/libtensorflow-nightly/prod/tensorflow/release/windows/latest/gpu/windows_gpu_libtensorflow_binaries.tar.gz) [Official GCS](https://storage.googleapis.com/tensorflow/)
 
+Please note that for the Build Types with the Status of “Status Temporary Unavailable” correlates to that specific Build Type not being supported by TensorFlow anymore due to hardware or software updates/changes.
+
+
+
 ## Resources
 
 *   [TensorFlow.org](https://www.tensorflow.org)
